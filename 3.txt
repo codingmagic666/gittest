@@ -5,9 +5,9 @@ local
 test2
 test3
 test7
-<<<<<<< HEAD
+
 test8
 
-=======
+
 test10
->>>>>>> 7f3b62e53ff70c88009c6352f6bf2977c96c23d6
+
